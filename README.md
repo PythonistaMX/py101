@@ -30,7 +30,7 @@
 
 Para descargar los apuntes ejecute el siguiente comando:
 ```
-git clone https://github.com/PythonistaMX/py231.git
+git clone https://github.com/PythonistaMX/py101.git
 ```
 
 ## La máquina virtual de Pythonista<sup>®</sup>
