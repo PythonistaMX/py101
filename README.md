@@ -5,22 +5,27 @@
 ## Temario:
 
 * Introducción al lenguaje Python.
-* Palabras reservadas y espacio de nombres.
+* Palabras reservadas, nombres y espacio de nombres.
 * Expresiones y declaraciones.
-* Números, cadenas de caracteres, tipos y operadores.
-* Orientación a objetos e introspección.
+* Tipos de datos.
+* Colecciones.
+* Expresiones con operadores.
+* Conversión de tipos.
+* Introspección.
 * Entrada y salida estándar.
-* Bloques, comentarios y condicionales.
-* Ciclos, iteraciones e interrupciones de ejecución.
-* Objetos tipo _list_ y tipo _tuple_.
-* Objetos tipo _dict_.
-* Objetos tipo _str_. 
-* Objetos tipo _set_ y _frozenset_.
+* Flujo de ejecución y comentarios.
+* Condicionales.
+* Ciclos e interrupciones de ejecución.
+* Iteraciones.
+* Objetos tipo ```list``` y tipo ```tuple```.
+* Objetos tipo ```dict```.
+* Objetos tipo ```str``` y ```bytes```. 
+* Objetos tipo ```set``` y ```frozenset```.
 * Funciones.
 * Gestión de excepciones.
 * Iteradores y generadores.
 * Completado de elementos.
-* Entrada y salida de archivos.
+* Escritura y lectura de archivos.
 * Módulos y paquetes.
 * Gestión de módulos y paquetes con pip.
 * Creación de paquetes con setuptools.
