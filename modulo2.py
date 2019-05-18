@@ -11,4 +11,5 @@ def promedio(encabezado, muestra):
     print("El promedio de %s con %d elementos es %f." % (titulo, len(muestra), sum(muestra) / len(muestra)))
 
 if __name__ == "__main__": 
+    print(__name__)
     promedio(titulo, datos)
