@@ -1,3 +1,5 @@
-4 * 3
-15 == 25
-'hola' + ' mundo'
+#!/usr/bin/env python                                                     
+
+print(4 * 3)
+print(15 == 25)
+print('hola' + ' mundo')

@@ -1,2 +1,2 @@
-#! /usr/bin/python3
+#!/usr/bin/env python                                                     
 print("Hola, Mundo.")
