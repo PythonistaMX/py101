@@ -1,4 +1,4 @@
-#! /bin/bash/python3
+#!/usr/bin/env python3
 
 '''Ejemplo de un script que puede ser importado como módulo.'''
 
