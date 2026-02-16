@@ -1,6 +1,10 @@
 # Introducción a la Programación con Python 3 (Py101)
 
-[Python](https://www.python.org/) [Codespaces](https://github.com/features/codespaces) [License](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?logo=jupyter&logoColor=white)](https://jupyter.org/try)
+[![Dev Containers](https://img.shields.io/badge/Dev%20Containers-blue?logo=visualstudiocode&logoColor=white)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/PythonistaMX/py101)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Open in Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=152273296)
 
 > Estado: ✅ Curso Activo | Nivel: Básico
 
