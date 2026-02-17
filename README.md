@@ -62,14 +62,15 @@ El contenido está dividido en cuadernos (notebooks) progresivos:
 *   `20` - [Tipo dict](20_tipo_dict.ipynb)
 *   `21` - [Tipos set y frozenset](21_tipos_set_y_frozenset.ipynb)
 *   `22` - [Bases de programación funcional](22_bases_de_programacion_funcional.ipynb)
-*   `23` - [Gestión de excepciones](23_gestion_de_excepciones.ipynb)
-*   `24` - [Iteradores y generadores](24_iteradores_y_generadores.ipynb)
-*   `25` - [Completado de elementos](25_completado_de_elementos.ipynb)
-*   `26` - [Lectura y escritura de archivos](26_lectura_y_escritura_de_archivos.ipynb)
-*   `27` - [Módulos y paquetes](27_modulos_paquetes.ipynb)
-*   `28` - [Distribución de código](28_distribucion_de_codigo.ipynb)
-*   `29` - [Gestión de paquetes](29_gestion_de_paquetes.ipynb)
-*   `30` - [Entornos virtuales](30_entornos_virtuales.ipynb)
+*   `23` - [Coincidencia de patrones (match/case)](23_coincidencia_de_patrones.ipynb)
+*   `24` - [Gestión de excepciones](23_gestion_de_excepciones.ipynb)
+*   `25` - [Iteradores y generadores](24_iteradores_y_generadores.ipynb)
+*   `26` - [Completado de elementos](25_completado_de_elementos.ipynb)
+*   `27` - [Lectura y escritura de archivos](26_lectura_y_escritura_de_archivos.ipynb)
+*   `28` - [Módulos y paquetes](27_modulos_paquetes.ipynb)
+*   `29` - [Distribución de código](28_distribucion_de_codigo.ipynb)
+*   `30` - [Gestión de paquetes](29_gestion_de_paquetes.ipynb)
+*   `31` - [Entornos virtuales](30_entornos_virtuales.ipynb)
 
 ## 🛠️ Instalación y Uso
 
