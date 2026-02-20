@@ -108,3 +108,6 @@ venv.bak/
 prueba/
 prueba.*
 PLAN_*.md
+
+# Claude Code
+.claude/
