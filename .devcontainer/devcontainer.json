@@ -13,5 +13,5 @@
 			]
 		}
 	},
-	"postCreateCommand": "pip install --upgrade pip && pip install ipykernel"
+	"postCreateCommand": "pip install --upgrade pip && pip install ipykernel jupyterlab"
 }
