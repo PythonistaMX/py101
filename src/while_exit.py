@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 ''' Este programa se repetirá 3 veces o hasta que se ingrese
     la palabra "despedida" y desplegará sólo el número de intentos

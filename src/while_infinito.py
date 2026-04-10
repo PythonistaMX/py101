@@ -1,4 +1,4 @@
-#! /usr/bin/python3
+#! /usr/bin/env python3
 '''Este es un ciclo infinito, del cual solo se puede salir 
 cuando se ingrese la cadena despedida.'''
 

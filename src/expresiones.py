@@ -1,4 +1,4 @@
-#!/usr/bin/env python  
+#!/usr/bin/env python3 
 4 * 3
 15 == 25
 'hola' + ' mundo'
