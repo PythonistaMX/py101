@@ -108,6 +108,8 @@ venv.bak/
 prueba/
 prueba.*
 PLAN_*.md
+_review_*/
+.tmp_apply_*.sh
 
 # Claude Code
 .claude/

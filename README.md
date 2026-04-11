@@ -38,6 +38,12 @@ Un programa diseñado para aprender las bases de la programación utilizando Pyt
 
 El contenido está dividido en cuadernos (notebooks) progresivos:
 
+### 🧾 Operación Docente
+
+Para impartición con **GitHub Codespaces**, consulta la guía operativa docente:
+
+* [Instructor Guide (Py101)](INSTRUCTOR_GUIDE.md)
+
 ### 📚 Contenidos
 
 *   `01` - [Introducción a Python](01_introduccion.ipynb)
