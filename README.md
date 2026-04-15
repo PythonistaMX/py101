@@ -8,7 +8,7 @@
 
 > Estado: ✅ Curso Activo | Nivel: Básico
 
-Este repositorio contiene el material oficial del curso **Py101**, enfocado en los fundamentos del lenguaje de programación Python 3. Es el punto de partida perfecto para iniciarse en el mundo de la programación con Python.
+Este repositorio contiene el material oficial del curso **Py101**, enfocado en los fundamentos del lenguaje de programación Python 3. Está diseñado como punto de partida para iniciarse en la programación con Python y avanzar, de manera progresiva, desde la sintaxis básica hasta la organización, distribución y aislamiento de proyectos sencillos.
 
 ## 🗺️ Ruta de Aprendizaje
 
@@ -32,7 +32,8 @@ Un programa diseñado para aprender las bases de la programación utilizando Pyt
 *   Controlar el flujo del programa con **condicionales y ciclos**.
 *   Modularizar código utilizando **funciones y módulos**.
 *   Gestionar errores mediante **excepciones**.
-*   Trabajar con **archivos** y estructura de paquetes.
+*   Trabajar con **archivos**, **paquetes** y **módulos**.
+*   Comprender nociones introductorias de **distribución de código**, **gestión de dependencias** y **entornos virtuales**.
 
 ## 📅 Temario y Estructura
 
@@ -71,7 +72,7 @@ Para impartición con **GitHub Codespaces**, consulta la guía operativa docente
 *   `23` - [Coincidencia de patrones (match/case)](23_coincidencia_de_patrones.ipynb)
 *   `24` - [Gestión de excepciones](24_gestion_de_excepciones.ipynb)
 *   `25` - [Iteradores y generadores](25_iteradores_y_generadores.ipynb)
-*   `26` - [Completado de elementos](26_completado_de_elementos.ipynb)
+*   `26` - [Comprensiones y expresiones generadoras](26_completado_de_elementos.ipynb)
 *   `27` - [Lectura y escritura de archivos](27_lectura_y_escritura_de_archivos.ipynb)
 *   `28` - [Módulos y paquetes](28_modulos_paquetes.ipynb)
 *   `29` - [Distribución de código](29_distribucion_de_codigo.ipynb)
@@ -106,7 +107,7 @@ Si prefieres trabajar en tu máquina:
 
 3.  **Iniciar Jupyter**
     ```bash
-    # (Asegúrate de tener jupyter instalado o instálalo con pip install jupyter)
+    # (Si hace falta, instala Jupyter con: python -m pip install jupyterlab)
     jupyter lab
     ```
 
@@ -114,16 +115,6 @@ Si prefieres trabajar en tu máquina:
 
 Este material es desarrollado y mantenido por José Luis Chiquete Valdivieso.
 
-Este proyecto está bajo la licencia **Creative Commons Atribución 4.0 Internacional (CC-BY 4.0)**.
+El repositorio se distribuye bajo la licencia indicada en [LICENSE](LICENSE).
 
-Eres libre de:
-
-*   ✅ Compartir el material en cualquier medio o formato
-*   ✅ Adaptar, remezclar y crear contenido derivado
-*   ✅ Usar con fines comerciales
-
-Con la condición de:
-
-*   Reconocer la autoría original
-
-Para más detalles, consulta el archivo [LICENSE](LICENSE).
+Para detalles legales y de reutilización, consulta directamente ese archivo.
