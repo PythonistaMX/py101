@@ -45,6 +45,11 @@ Para impartición con **GitHub Codespaces**, consulta la guía operativa docente
 
 * [Instructor Guide (Py101)](INSTRUCTOR_GUIDE.md)
 
+### 📐 Políticas del Repositorio
+
+* [Política Editorial](POLITICA_EDITORIAL.md)
+* [Política de Versionado por Cohorte](POLITICA_VERSIONADO_COHORTE.md)
+
 ### 📚 Contenidos
 
 *   `01` - [Introducción a Python](01_introduccion.ipynb)
