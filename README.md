@@ -10,17 +10,24 @@
 
 Este repositorio contiene el material oficial del curso **Py101**, enfocado en los fundamentos del lenguaje de programación Python 3. Está diseñado como punto de partida para iniciarse en la programación con Python y avanzar, de manera progresiva, desde la sintaxis básica hasta la organización, distribución y aislamiento de proyectos sencillos.
 
+Dentro de la arquitectura curricular de la serie **py1xx**, este curso funciona como la puerta de entrada al tronco común: primero se estudian los fundamentos del lenguaje, después el diseño orientado a objetos y, más adelante, el uso práctico de la biblioteca estándar, la algoritmia y las nociones básicas de concurrencia, paralelismo y persistencia ligera.
+
 ## 🗺️ Ruta de Aprendizaje
 
-Este curso forma parte de la serie **Fundamentos de Python (py1xx)**:
+Este curso forma parte de la serie **Fundamentos de Python (py1xx)**, la cual constituye el tronco común antes de las rutas de especialización **py2xx** y **py3xx**.
 
 | Curso | Título | Estado |
 | :---: | :--- | :--- |
 | **py101** | **Introducción a Python 3** | **✅ Este curso** |
 | **py111** | POO con Python 3 | Siguiente paso |
 | **py121** | Biblioteca estándar de Python | Futuro |
-| **py131** | Estructuras de Datos y Algoritmia | Especialización |
-| **py141** | Automatización y Extracción de Datos | Aplicación práctica |
+| **py131** | Estructuras de Datos y Algoritmia con Python | Futuro |
+| **py141** | Concurrencia, Paralelismo y Persistencia Básica | Futuro |
+
+Después del tronco común, la trayectoria puede continuar hacia:
+
+* la serie **py2xx**, orientada a aplicaciones web, APIs y CI/CD;
+* la serie **py3xx**, orientada a ingeniería de datos.
 
 ## 🚀 Acerca del Curso
 
@@ -34,6 +41,18 @@ Un programa diseñado para aprender las bases de la programación utilizando Pyt
 *   Gestionar errores mediante **excepciones**.
 *   Trabajar con **archivos**, **paquetes** y **módulos**.
 *   Comprender nociones introductorias de **distribución de código**, **gestión de dependencias** y **entornos virtuales**.
+
+Py101 no pretende agotar toda la formación en Python por sí mismo. Su función es establecer una base sólida y transferible sobre la cual puedan apoyarse los cursos posteriores de la serie py1xx y, más adelante, las rutas de especialización.
+
+## 🎯 Perfil de Egreso
+
+Al concluir Py101, la persona estudiante será capaz de:
+
+*   leer y escribir programas básicos y medianos en Python con claridad sintáctica;
+*   usar tipos de datos, colecciones, funciones, condicionales y ciclos para resolver problemas introductorios;
+*   trabajar con archivos, módulos y paquetes sencillos;
+*   interpretar errores comunes y aplicar estrategias básicas de corrección;
+*   continuar con bases sólidas hacia los cursos posteriores del tronco común py1xx.
 
 ## 📅 Temario y Estructura
 
@@ -49,6 +68,14 @@ Para impartición con **GitHub Codespaces**, consulta la guía operativa docente
 
 * [Política Editorial](POLITICA_EDITORIAL.md)
 * [Política de Versionado por Cohorte](POLITICA_VERSIONADO_COHORTE.md)
+
+### 🧩 Ejercicios Resueltos
+
+La carpeta [ejercicios_resueltos](ejercicios_resueltos) reúne cuadernos complementarios con ejercicios tipo entrevista, breves y accionables, construidos a partir de los temas estudiados en las notebooks numeradas de la raíz del repositorio.
+
+Su propósito no es sustituir el curso principal, sino servir como material de refuerzo después de las sesiones remotas en vivo. En estos cuadernos se retoman conceptos ya vistos en clase y se aplican en problemas cortos con soluciones directas, de modo que la persona estudiante pueda practicar reconocimiento de patrones, lectura de código y resolución de ejercicios guiados.
+
+En conjunto, las notebooks principales presentan y desarrollan los contenidos del curso, mientras que la carpeta [ejercicios_resueltos](ejercicios_resueltos) ofrece ejemplos adicionales resueltos para consolidar el aprendizaje.
 
 ### 📚 Contenidos
 

@@ -110,6 +110,7 @@ prueba.*
 PLAN_*.md
 _review_*/
 .tmp_apply_*.sh
+PROPUESTA_CURRICULAR_PY1XX.md
 
 # Claude Code
 .claude/
