@@ -1,5 +1,8 @@
 import sys
-from .promedios import promedio
+try:
+    from .promedios import promedio
+except ImportError:
+    from promedios import promedio
 
 def main():
     if len(sys.argv) > 1:
