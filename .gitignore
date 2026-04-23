@@ -114,3 +114,6 @@ PROPUESTA_CURRICULAR_PY1XX.md
 
 # Claude Code
 .claude/
+
+# Archivos zipapp generados
+*.pyz
