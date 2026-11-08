@@ -22,7 +22,7 @@ Este curso forma parte de la serie **Fundamentos de Python (py1xx)**, la cual co
 | **py111** | POO con Python 3 | Siguiente paso |
 | **py121** | Biblioteca estándar de Python | Futuro |
 | **py131** | Estructuras de Datos y Algoritmia con Python | Futuro |
-| **py141** | Concurrencia, Paralelismo y Persistencia Básica | Futuro |
+| **py141** | Acceso a Datos con Python | Futuro |
 
 Después del tronco común, la trayectoria puede continuar hacia:
 
