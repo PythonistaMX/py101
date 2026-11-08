@@ -11,7 +11,7 @@ Su funcion es establecer las bases del lenguaje antes de avanzar hacia:
 - py111, orientado a programacion orientada a objetos.
 - py121, orientado a biblioteca estandar, depuracion y calidad tecnica.
 - py131, orientado a estructuras de datos y algoritmia.
-- py141, orientado a concurrencia, paralelismo y persistencia basica.
+- py141, orientado a acceso a datos con Python.
 
 La progresion posterior hacia py2xx y py3xx depende de que en Py101 se consoliden con claridad la sintaxis, el flujo de control, las funciones, las colecciones, el trabajo con archivos y la organizacion inicial del codigo.
 
